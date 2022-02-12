@@ -1,0 +1,2 @@
+# yazilimci-misin
+Mizah amaçlıdır :)
